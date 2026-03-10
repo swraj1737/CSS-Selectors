@@ -1,0 +1,41 @@
+body{
+    background-color: #ff7f50;
+}
+.head{
+    color: #00008b;
+}
+#bglime{
+    background-color: #72ff72;
+    color: red;
+}
+p{
+    color: #ffffff;
+}
+#para{
+    color: green;
+}
+p span{
+    color: #000000;
+    font-size: 20px;
+}
+p strong{
+    color: #000;
+}
+ul{
+    color: #fff;
+}
+ul li a{
+    background-color: #8a2be2;
+}
+ul li:first-child a{
+    background-color: #ffff00;
+}
+ol{
+    color: #000;
+}
+ol li:nth-child(2){
+    color: #0000ff;
+}
+ol li:nth-child(3){
+    color: #ff0000;
+}
